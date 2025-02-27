@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.10.1",
     "prompt-sync": "^4.2.0"
   },
   "description": ""
